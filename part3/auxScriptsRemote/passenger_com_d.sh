@@ -1,0 +1,1 @@
+java -cp ".:./genclass.jar:../.." clientSide.main.MainPassenger l040101-ws09.ua.pt 22000
